@@ -56,6 +56,7 @@ A set of tools that use ffmpeg, gifski, and a combination of both for video comp
 ---------
 
 **Reference:**
+
 *Start/End time format* = HH:MM:SS.mmm
 
 *ffmpeg resolution, FPS* = scale=width:height, -r [FPS]
