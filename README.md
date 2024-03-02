@@ -44,7 +44,7 @@ A set of tools that use ffmpeg, gifski, and a combination of both for both video
   - From what I've noticed, doing this for HQ videos before the video-to-frames process can help reduce the image frame file size(s).
 
 - ***「 gifski_imgseq-to-gif 」*** is meant as a follow-up to ffmpeg_video-to-frames. So, after you've got all your frames inside a folder, go ahead and double-click on the .bat file—no need to drag-and-drop anything onto it. Follow the prompts like usual, and for the gifski options in particular...
-  - I typically use --width for resolution, --quality for...well—quality, and --fps to speed.
+  - I typically use --width for resolution, --quality for...well—quality, and --fps for speed.
     - For --width, you only need to specify the WIDTH of a resolution (i.e. for 1920x1080, you only need to use 1920 !!). You can set the width lower or higher to decrease or increase the resolution, the former being good for longer duration GIFs.
     - For --quality, iirc you can go from 0-100. I'd recommend a range of 70 to 90 depending on the duration of the clip—only use 90 and above if you're ABSOLUTELY sure the file size can remain under 14.9MB !!
     - For --fps, I'd say if you want your GIF's speed to match that of the clip, then simply find out your clip's framerate and place that as a value. If you want to speed up the GIF, go higher than the clip's FPS—if you want to slow it down, go lower.
