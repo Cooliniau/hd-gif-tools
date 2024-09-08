@@ -1,7 +1,12 @@
 # hd-gif-tools
 A set of tools that use ffmpeg, gifski, and a combination of both for video compression, image sequence extraction, and the creation of high quality GIFs from video files.
 
-### **A (Not-So) Quick Tutorial on Making HD GIFs for Twitter !!**
+### **A Quick Video Tutorial on Making HD GIFs for Twitter !!**
+
+**by ini of Cooliniau**
+https://www.youtube.com/watch?v=jzXbw0nP-Tg
+
+### **A (Not-So) Quick Text Tutorial on Making HD GIFs for Twitter !!**
 
 **by ini of Cooliniau**
 
