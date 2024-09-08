@@ -19,7 +19,7 @@ A set of tools that use ffmpeg, gifski, and a combination of both for video comp
 - Download ffmpeg-essentials (https://www.gyan.dev/ffmpeg/builds) and the command line version of gifski (https://gif.ski/gifski-1.14.4.zip, or "Download CLI binaries" on https://gif.ski)
   - If you want, you can *also* get the GUI version of gifski—just be aware that it's got less precision when it comes to adjusting FPS and (iirc) *nothing* for adjusting the resolution.
 
-- Add the file directories of both folders to your system PATH (look up "How to edit environment variables on Windows" if you don't know how to do this!)
+- Add the file directories of both folders to your system PATH (look up "How to edit environment variables on Windows" if you don't know how to do this!)—make sure the folder directory in PATH is the folder containing the necessary ffmpeg executables and gifski executables.
 
 - Open up cmd for a sec and type "ffmpeg", press enter; then type "gifski" and also press enter. If both give you basic instructions on how to use them, it means you've installed them correctly.
 
