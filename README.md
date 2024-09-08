@@ -4,7 +4,8 @@ A set of tools that use ffmpeg, gifski, and a combination of both for video comp
 ### **A Quick Video Tutorial on Making HD GIFs for Twitter !!**
 
 **by ini of Cooliniau**
-https://www.youtube.com/watch?v=jzXbw0nP-Tg
+
+[![Watch the video](https://img.youtube.com/vi/jzXbw0nP-Tg/maxresdefault.jpg)](https://youtu.be/jzXbw0nP-Tg)
 
 ### **A (Not-So) Quick Text Tutorial on Making HD GIFs for Twitter !!**
 
